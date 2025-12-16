@@ -2,3 +2,4 @@ File 1 initial text
 Don't fall in love - ever!
 
 Conflicting line in main branch
+Conflicting line from bug-fix branch
