@@ -1,3 +1,5 @@
 This is a new file to be pushed to the main branch
 
 some extra content in file2 in main branch
+
+this is a conflicting text on bug branch
